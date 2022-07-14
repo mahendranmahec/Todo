@@ -20,7 +20,7 @@ completed
 #delete
 #delete has
 delete button for deleting each task 
-delete all completed button 
+delete all the completed button
 
 
 
